@@ -2,7 +2,7 @@ import React from "react";
 import HeroSection from "../components/HeroSection";
 import AboutSection from "../components/AboutSection";
 import FeaturesSection from "../components/FeaturesSection";
-import NavBar from "../components/NavBar";
+import NavBar from "../components/Navbar";
 
 function LandingPage() {
   return (
